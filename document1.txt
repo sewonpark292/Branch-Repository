@@ -1,4 +1,4 @@
-# commit test
+# This location sentence were commit test. but it changed other phrase.
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
